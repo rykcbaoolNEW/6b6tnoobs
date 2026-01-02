@@ -1,1 +1,1 @@
-# FINDS NOOBS LIKE KAWAIIKAISA
+# Returns differnt stuff for diddy ware and other apis
